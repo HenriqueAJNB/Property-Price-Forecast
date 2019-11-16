@@ -9,7 +9,7 @@ In this context the main objective of this project is to develop a real estate a
 Our *dataset* is a 5000 size random sample of properties available for sale in the municipality of Rio de Janeiro in Brazil.
 
 Dataset:
-- Value - Value (R $) of property offer
+- Value - Value (BRL currency R$) of property offer
 - Area - Property area in m²
 - Dist_Praia - Distance from the property to the beach (km) (straight)
 - Dist_Farmacia - Distance from the property to the nearest pharmacy (km) (straight)
